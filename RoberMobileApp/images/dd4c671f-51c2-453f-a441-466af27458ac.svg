@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="20px" viewBox="0 0 620 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Status Bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Uber-iOS-Wireframe-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Example-View---Menu" transform="translate(-10.000000, -10.000000)" fill="#E6E6E9">
+            <g id="Navigation-Bar-(Light)-+-Icons">
+                <g id="Status-Bar" transform="translate(10.000000, 10.000000)">
+                    <rect x="0" y="0" width="620" height="20"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
