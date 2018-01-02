@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu (30x30)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Uber-iOS-Wireframe-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Example-View---Menu" transform="translate(-35.000000, -72.000000)" fill="#6B6B76">
+            <g id="Navigation-Bar-(Light)-+-Icons">
+                <g id="Icon---Left" transform="translate(30.000000, 64.000000)">
+                    <path d="M5,29.5 C5,28.1192881 6.12128278,27 7.50618324,27 L32.4938168,27 C33.8779435,27 35,28.1096621 35,29.5 C35,30.8807119 33.8787172,32 32.4938168,32 L7.50618324,32 C6.12205645,32 5,30.8903379 5,29.5 Z M5,20.1999969 C5,18.8192851 6.12128278,17.6999969 7.50618324,17.6999969 L32.4938168,17.6999969 C33.8779435,17.6999969 35,18.809659 35,20.1999969 C35,21.5807088 33.8787172,22.6999969 32.4938168,22.6999969 L7.50618324,22.6999969 C6.12205645,22.6999969 5,21.5903349 5,20.1999969 Z M5,10.5 C5,9.11928813 6.12128278,8 7.50618324,8 L32.4938168,8 C33.8779435,8 35,9.10966206 35,10.5 C35,11.8807119 33.8787172,13 32.4938168,13 L7.50618324,13 C6.12205645,13 5,11.8903379 5,10.5 Z" id="Menu-(30x30)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
