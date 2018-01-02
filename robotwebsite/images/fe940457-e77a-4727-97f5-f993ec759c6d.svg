@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>filled_star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_quick_view" transform="translate(-826.000000, -266.000000)" fill="#FF5A00">
+            <g id="product_overlay" transform="translate(271.000000, 236.000000)">
+                <g id="Group" transform="translate(462.000000, 30.000000)">
+                    <g id="star_rating">
+                        <polygon id="filled_star" points="112.064516 6.750189 105.471228 6.05623142 102.774194 0 100.077159 6.05623142 93.483871 6.750189 98.4086198 11.1890292 97.0338372 17.6710354 102.774194 14.3588395 108.51455 17.6710354 107.139767 11.1862645"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
